@@ -1,1 +1,112 @@
-@font-face{font-family:'Source Code Pro';font-style:italic;font-weight:200;font-display:swap;src:url(/assets/fonts/HI_ViYsKILxRpg3hIP6sJ7fM7PqlONMbtdco5mg.ttf) format('truetype')}@font-face{font-family:'Source Code Pro';font-style:italic;font-weight:300;font-display:swap;src:url(/assets/fonts/HI_ViYsKILxRpg3hIP6sJ7fM7PqlONN_ttco5mg.ttf) format('truetype')}@font-face{font-family:'Source Code Pro';font-style:italic;font-weight:400;font-display:swap;src:url(/assets/fonts/HI_QiYsKILxRpg3hIP6sJ7fM7PqlONvUlMc.ttf) format('truetype')}@font-face{font-family:'Source Code Pro';font-style:italic;font-weight:500;font-display:swap;src:url(/assets/fonts/HI_ViYsKILxRpg3hIP6sJ7fM7PqlONMnt9co5mg.ttf) format('truetype')}@font-face{font-family:'Source Code Pro';font-style:italic;font-weight:600;font-display:swap;src:url(/assets/fonts/HI_ViYsKILxRpg3hIP6sJ7fM7PqlONMLsNco5mg.ttf) format('truetype')}@font-face{font-family:'Source Code Pro';font-style:italic;font-weight:700;font-display:swap;src:url(/assets/fonts/HI_ViYsKILxRpg3hIP6sJ7fM7PqlONNvsdco5mg.ttf) format('truetype')}@font-face{font-family:'Source Code Pro';font-style:italic;font-weight:900;font-display:swap;src:url(/assets/fonts/HI_ViYsKILxRpg3hIP6sJ7fM7PqlONNXs9co5mg.ttf) format('truetype')}@font-face{font-family:'Source Code Pro';font-style:normal;font-weight:200;font-display:swap;src:url(/assets/fonts/HI_XiYsKILxRpg3hIP6sJ7fM7Pqt8srDs-cv.ttf) format('truetype')}@font-face{font-family:'Source Code Pro';font-style:normal;font-weight:300;font-display:swap;src:url(/assets/fonts/HI_XiYsKILxRpg3hIP6sJ7fM7PqtlsnDs-cv.ttf) format('truetype')}@font-face{font-family:'Source Code Pro';font-style:normal;font-weight:400;font-display:swap;src:url(/assets/fonts/HI_SiYsKILxRpg3hIP6sJ7fM7PqlPevT.ttf) format('truetype')}@font-face{font-family:'Source Code Pro';font-style:normal;font-weight:500;font-display:swap;src:url(/assets/fonts/HI_XiYsKILxRpg3hIP6sJ7fM7PqtzsjDs-cv.ttf) format('truetype')}@font-face{font-family:'Source Code Pro';font-style:normal;font-weight:600;font-display:swap;src:url(/assets/fonts/HI_XiYsKILxRpg3hIP6sJ7fM7Pqt4s_Ds-cv.ttf) format('truetype')}@font-face{font-family:'Source Code Pro';font-style:normal;font-weight:700;font-display:swap;src:url(/assets/fonts/HI_XiYsKILxRpg3hIP6sJ7fM7Pqths7Ds-cv.ttf) format('truetype')}@font-face{font-family:'Source Code Pro';font-style:normal;font-weight:900;font-display:swap;src:url(/assets/fonts/HI_XiYsKILxRpg3hIP6sJ7fM7PqtvszDs-cv.ttf) format('truetype')}
+@font-face {
+  font-family: "Source Code Pro";
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url(/assets/fonts/HI_ViYsKILxRpg3hIP6sJ7fM7PqlONMbtdco5mg.ttf)
+    format("truetype");
+}
+@font-face {
+  font-family: "Source Code Pro";
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(/assets/fonts/HI_ViYsKILxRpg3hIP6sJ7fM7PqlONN_ttco5mg.ttf)
+    format("truetype");
+}
+@font-face {
+  font-family: "Source Code Pro";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/assets/fonts/HI_QiYsKILxRpg3hIP6sJ7fM7PqlONvUlMc.ttf)
+    format("truetype");
+}
+@font-face {
+  font-family: "Source Code Pro";
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/assets/fonts/HI_ViYsKILxRpg3hIP6sJ7fM7PqlONMnt9co5mg.ttf)
+    format("truetype");
+}
+@font-face {
+  font-family: "Source Code Pro";
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/assets/fonts/HI_ViYsKILxRpg3hIP6sJ7fM7PqlONMLsNco5mg.ttf)
+    format("truetype");
+}
+@font-face {
+  font-family: "Source Code Pro";
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/assets/fonts/HI_ViYsKILxRpg3hIP6sJ7fM7PqlONNvsdco5mg.ttf)
+    format("truetype");
+}
+@font-face {
+  font-family: "Source Code Pro";
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url(/assets/fonts/HI_ViYsKILxRpg3hIP6sJ7fM7PqlONNXs9co5mg.ttf)
+    format("truetype");
+}
+@font-face {
+  font-family: "Source Code Pro";
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(/assets/fonts/HI_XiYsKILxRpg3hIP6sJ7fM7Pqt8srDs-cv.ttf)
+    format("truetype");
+}
+@font-face {
+  font-family: "Source Code Pro";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(/assets/fonts/HI_XiYsKILxRpg3hIP6sJ7fM7PqtlsnDs-cv.ttf)
+    format("truetype");
+}
+@font-face {
+  font-family: "Source Code Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/assets/fonts/HI_SiYsKILxRpg3hIP6sJ7fM7PqlPevT.ttf)
+    format("truetype");
+}
+@font-face {
+  font-family: "Source Code Pro";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/assets/fonts/HI_XiYsKILxRpg3hIP6sJ7fM7PqtzsjDs-cv.ttf)
+    format("truetype");
+}
+@font-face {
+  font-family: "Source Code Pro";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/assets/fonts/HI_XiYsKILxRpg3hIP6sJ7fM7Pqt4s_Ds-cv.ttf)
+    format("truetype");
+}
+@font-face {
+  font-family: "Source Code Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/assets/fonts/HI_XiYsKILxRpg3hIP6sJ7fM7Pqths7Ds-cv.ttf)
+    format("truetype");
+}
+@font-face {
+  font-family: "Source Code Pro";
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(/assets/fonts/HI_XiYsKILxRpg3hIP6sJ7fM7PqtvszDs-cv.ttf)
+    format("truetype");
+}
