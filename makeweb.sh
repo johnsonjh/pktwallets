@@ -2,7 +2,7 @@
 #
 #####################################################################
 #                                                                   #
-#  This is Gridfinity pkwlt makeweb (Release 202101070C) [GFODLv1]  #
+#  This is Gridfinity pkwlt makeweb (Release 202101070D) [GFODLv1]  #
 #                                                                   #
 #####################################################################
 #                                                                   #
@@ -46,9 +46,8 @@
 # ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.                        #
 #                                                                   #
 #####################################################################
-# pkwlt makeweb 202101070C requires: POSIX sh, semver-tool >=3.2.0, #
-# sponge >=20060219, Tidy-HTML5 >=5.7.28, GNU find, GNU xargs,      #
-# GNU sed, POSIX cat, and a somewhat recent release of Git VCS.     #
+# pkwlt makeweb 202101070D requires: POSIX sh, semver-tool >=3.2.0, #
+# sponge >=20060219, POSIX cat, and a recent release of Git VCS.    #
 #####################################################################
 #
 #####################################################################
@@ -126,6 +125,6 @@ git add -A &&
 	git tag -a -s "${SEMVER:?}" -m "v${SEMVER:?} - $(date)" &&
 	printf '%s\n' \
 		"Set new semver tag: ${SEMVER}" &&
-	git commit -q -aS -m "Pushing Pages: $(date)" #&&
-#	git pushall master &&
-#	printf '%s\n' "Complete."
+	git commit -q -aS -m "Pushing Pages: $(date)" &&
+	git pushall master &&
+	printf '%s\n' "Complete."
