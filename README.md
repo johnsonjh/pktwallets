@@ -35,6 +35,7 @@ Cash wallet distribution</B>
 ## Licenses
 
 - [The Gridfinity Open Documentation License v1.0 (**GFODLv1**)](https://gitlab.gridfinity.com/pktwallets/pktwallets.gridfinity.dev/-/blob/master/LICENSE)
+
   - _GFODLv1_ applies to the website content.
 
 - [The Oxford 153 Entitlement: Mark I (**OX153MkI**)](https://gitlab.gridfinity.com/pktwallets/pktwallets.gridfinity.dev/-/blob/master/LICENSE.153)
