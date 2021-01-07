@@ -33,6 +33,7 @@
 
 ## Licenses
 
-- [The Gridfinity Open Documentation License v1.0 (**GFODLv1**)](https://gitlab.gridfinity.com/pktwallets/pktwallets.gridfinity.dev/-/blob/master/LICENSE) applies to the web content.
-- [The Oxford 153 Entitlement: Mark I (**OX153MkI**)](https://gitlab.gridfinity.com/pktwallets/pktwallets.gridfinity.dev/-/blob/master/LICENSE.153) applies to the makeweb.sh tool.
-
+- [The Gridfinity Open Documentation License v1.0 (**GFODLv1**)](https://gitlab.gridfinity.com/pktwallets/pktwallets.gridfinity.dev/-/blob/master/LICENSE) 
+  - *GFODLv1* applies to the website content.
+- [The Oxford 153 Entitlement: Mark I (**OX153MkI**)](https://gitlab.gridfinity.com/pktwallets/pktwallets.gridfinity.dev/-/blob/master/LICENSE.153)
+  - *OX153MkI* applies to the makeweb.sh tool.
