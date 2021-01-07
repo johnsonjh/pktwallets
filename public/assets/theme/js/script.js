@@ -207,9 +207,10 @@ $jscomp.polyfill(
           const t = h.match(
             /(http:\/\/|https:\/\/|)?(player.|www.)?(vimeo\.com|youtu(be\.com|\.be|be\.googleapis\.com))\/(video\/|embed\/|watch\?v=|v\/)?([A-Za-z0-9._%-]*)(&\S+)?/
           );
-          const s = d('<div class="mbr-background-video-preview">')
-            .hide()
-            .css({ backgroundSize: "cover", backgroundPosition: "center" });
+          const s = d('<div class="mbr-background-video-preview">').hide().css({
+            backgroundSize: "cover",
+            backgroundPosition: "center",
+          });
           d("> *:eq(0)", this).before(s);
           if (t && (/youtu\.?be/g.test(t[3]) || /vimeo/g.test(t[3]))) {
             if (t && /youtu\.?be/g.test(t[3])) {
@@ -669,11 +670,10 @@ $jscomp.polyfill(
         });
       }
       if (e.hasClass("mbr-slider") || e.hasClass("mbr-gallery")) {
-        e
-          .find(".carousel-indicators")
-          .addClass("ie-fix")
-          .find("li")
-          .css({ display: "inline-block", width: "30px" }),
+        e.find(".carousel-indicators").addClass("ie-fix").find("li").css({
+          display: "inline-block",
+          width: "30px",
+        }),
           e.hasClass("mbr-slider") &&
             e
               .find(".full-screen .slider-fullscreen-image")
