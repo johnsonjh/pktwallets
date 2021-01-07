@@ -5,6 +5,7 @@ Cash wallet distribution</B>
 
 ---
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4aab1e9533ae4531b791b6e553bd8b0a)](https://app.codacy.com/gh/gridfinity/pktwallets.gridfinity.dev?utm_source=github.com&utm_medium=referral&utm_content=gridfinity/pktwallets.gridfinity.dev&utm_campaign=Badge_Grade)
 [![DocGFODLv1](https://img.shields.io/badge/Documentation%20License-GFODLv1-Blue.svg)](https://gitlab.gridfinity.com/pktwallets/pktwallets.gridfinity.dev/-/blob/master/LICENSE)
 [![CodacyBadge](https://api.codacy.com/project/badge/Grade/92f15b8010c54a19be0e50e7bef5e2be)](https://app.codacy.com/gh/gridfinity/pktwallets.gridfinity.dev)
 [![MadeWithGitLabCI/CD](https://img.shields.io/badge/Made%20With-GitLab%20CI%2FCD-Blue.svg)](https://gitlab.gridfinity.com/)
