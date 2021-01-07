@@ -7,7 +7,8 @@ Cash wallet distribution</B>
 
 [![DocGFODLv1](https://img.shields.io/badge/Documentation%20License-GFODLv1-Blue.svg)](https://gitlab.gridfinity.com/pktwallets/pktwallets.gridfinity.dev/-/blob/master/LICENSE)
 [![MadeWithGitLabCI/CD](https://img.shields.io/badge/Made%20With-GitLab%20CI%2FCD-Blue.svg)](https://gitlab.gridfinity.com/)
-[![DeepSource](https://deepsource.io/gh/gridfinity/pktwallets.gridfinity.dev.svg/?label=active+issues)](https://deepsource.io/gh/gridfinity/pktwallets.gridfinity.dev/?ref=repository-badge)
+[![DeepSourceA](https://deepsource.io/gh/gridfinity/pktwallets.gridfinity.dev.svg/?label=active+issues)](https://deepsource.io/gh/gridfinity/pktwallets.gridfinity.dev/?ref=repository-badge)
+[![DeepSourceR](https://deepsource.io/gh/gridfinity/pktwallets.gridfinity.dev.svg/?label=resolved+issues)](https://deepsource.io/gh/gridfinity/pktwallets.gridfinity.dev/?ref=repository-badge)
 [![GitHubTag](https://img.shields.io/github/tag/gridfinity/pktwallets.gridfinity.dev.svg)](https://GitHub.com/gridfinity/pktwallets.gridfinity.dev.svg/tags/)
 [![LocCount](https://img.shields.io/tokei/lines/github/gridfinity/pktwallets.gridfinity.dev.svg)](https://github.com/XAMPPRocky/tokei)
 [![GitHubCodeSize](https://img.shields.io/github/languages/code-size/gridfinity/pktwallets.gridfinity.dev.svg)](https://github.com/gridfinity/pktwallets.gridfinity.dev)
