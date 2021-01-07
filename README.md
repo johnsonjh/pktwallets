@@ -5,15 +5,13 @@ Cash wallet distribution</B>
 
 ---
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4aab1e9533ae4531b791b6e553bd8b0a)](https://app.codacy.com/gh/gridfinity/pktwallets.gridfinity.dev?utm_source=github.com&utm_medium=referral&utm_content=gridfinity/pktwallets.gridfinity.dev&utm_campaign=Badge_Grade)
 [![DocGFODLv1](https://img.shields.io/badge/Documentation%20License-GFODLv1-Blue.svg)](https://gitlab.gridfinity.com/pktwallets/pktwallets.gridfinity.dev/-/blob/master/LICENSE)
-[![CodacyBadge](https://api.codacy.com/project/badge/Grade/92f15b8010c54a19be0e50e7bef5e2be)](https://app.codacy.com/gh/gridfinity/pktwallets.gridfinity.dev)
 [![MadeWithGitLabCI/CD](https://img.shields.io/badge/Made%20With-GitLab%20CI%2FCD-Blue.svg)](https://gitlab.gridfinity.com/)
 [![DeepSource](https://deepsource.io/gh/gridfinity/pktwallets.gridfinity.dev.svg/?label=active+issues)](https://deepsource.io/gh/gridfinity/pktwallets.gridfinity.dev/?ref=repository-badge)
 [![GitHubTag](https://img.shields.io/github/tag/gridfinity/pktwallets.gridfinity.dev.svg)](https://GitHub.com/gridfinity/pktwallets.gridfinity.dev.svg/tags/)
 [![LocCount](https://img.shields.io/tokei/lines/github/gridfinity/pktwallets.gridfinity.dev.svg)](https://github.com/XAMPPRocky/tokei)
 [![GitHubCodeSize](https://img.shields.io/github/languages/code-size/gridfinity/pktwallets.gridfinity.dev.svg)](https://github.com/gridfinity/pktwallets.gridfinity.dev)
-[![CodacyBadge](https://api.codacy.com/project/badge/Grade/1554a9e30cff45aa80635c1e00dafa9e)](https://app.codacy.com/gh/gridfinity/pktwallets.gridfinity.dev)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4aab1e9533ae4531b791b6e553bd8b0a)](https://app.codacy.com/gh/gridfinity/pktwallets.gridfinity.dev?utm_source=github.com&utm_medium=referral&utm_content=gridfinity/pktwallets.gridfinity.dev&utm_campaign=Badge_Grade)
 
 ---
 
@@ -37,7 +35,8 @@ Cash wallet distribution</B>
 
 - [The Gridfinity Open Documentation License v1.0 (**GFODLv1**)](https://gitlab.gridfinity.com/pktwallets/pktwallets.gridfinity.dev/-/blob/master/LICENSE)
 
-  - _GFODLv1_ applies to the website content.
+  * _GFODLv1_ applies to the website content.
 
 - [The Oxford 153 Entitlement: Mark I (**OX153MkI**)](https://gitlab.gridfinity.com/pktwallets/pktwallets.gridfinity.dev/-/blob/master/LICENSE.153)
-  - _OX153MkI_ applies to the `makeweb.sh` tool.
+
+  * _OX153MkI_ applies to the `makeweb.sh` tool.
