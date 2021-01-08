@@ -546,7 +546,7 @@ $jscomp.polyfill(
           }
           let e = m.parents(".carousel-item").parent();
           if (
-            e.find(".carousel-item.active .hidden.animate__animated").lenght
+            e.find(".carousel-item.active .hidden.animate__animated").length
           ) {
             return !1;
           }
