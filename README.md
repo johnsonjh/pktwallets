@@ -39,4 +39,3 @@
 - [The Oxford 153 Entitlement: Mark I (**OX153MkI**)](https://gitlab.gridfinity.com/pktwallets/pktwallets.gridfinity.dev/-/blob/master/LICENSE.153)
 
   - _OX153MkI_ applies to the `makeweb.sh` tool.
-
