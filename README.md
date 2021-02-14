@@ -1,7 +1,6 @@
 # pktwallets.gridfinity.dev
 
-<B>[pktwallets.gridfinity.dev](https://pktwallets.gridfinity.dev): Courtesy PKT
-Cash wallet distribution</B>
+<B>[pktwallets.gridfinity.dev](https://pktwallets.gridfinity.dev): Courtesy PKT Cash wallet distribution</B>
 
 ---
 
@@ -25,7 +24,6 @@ Cash wallet distribution</B>
 ### Source Code
 
 - [Gridfinity GitLab](https://gitlab.gridfinity.com/pktwallets/pktwallets.gridfinity.dev)
-- [SourceHut Git](https://sr.ht/~trn/pktwallets.gridfinity.dev)
 - [GitHub](https://github.com/gridfinity/pktwallets.gridfinity.dev)
 
 ## Issue Tracking
@@ -41,3 +39,4 @@ Cash wallet distribution</B>
 - [The Oxford 153 Entitlement: Mark I (**OX153MkI**)](https://gitlab.gridfinity.com/pktwallets/pktwallets.gridfinity.dev/-/blob/master/LICENSE.153)
 
   - _OX153MkI_ applies to the `makeweb.sh` tool.
+
