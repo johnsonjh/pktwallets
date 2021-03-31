@@ -1,6 +1,7 @@
 # pktwallets.gridfinity.dev
 
-[pktwallets.gridfinity.dev](https://pktwallets.gridfinity.dev): Courtesy PKT Cash wallet distribution
+[pktwallets.gridfinity.dev](https://pktwallets.gridfinity.dev): Courtesy PKT
+Cash wallet distribution
 
 ---
 
