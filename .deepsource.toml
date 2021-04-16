@@ -5,27 +5,15 @@ name = "test-coverage"
 enabled = true
 
 [[analyzers]]
+name = "javascript"
+enabled = true
+
+[[analyzers]]
 name = "shell"
 enabled = true
 
 [[analyzers]]
 name = "secrets"
-enabled = true
-
-[[transformers]]
-name = "rubocop"
-enabled = true
-
-[[transformers]]
-name = "black"
-enabled = true
-
-[[transformers]]
-name = "gofmt"
-enabled = true
-
-[[transformers]]
-name = "yapf"
 enabled = true
 
 [[transformers]]
@@ -45,5 +33,21 @@ name = "prettier"
 enabled = true
 
 [[transformers]]
+name = "black"
+enabled = true
+
+[[transformers]]
+name = "gofmt"
+enabled = true
+
+[[transformers]]
+name = "yapf"
+enabled = true
+
+[[transformers]]
 name = "standardjs"
+enabled = true
+
+[[transformers]]
+name = "rubocop"
 enabled = true
